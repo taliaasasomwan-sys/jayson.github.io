@@ -29,3 +29,18 @@ Wanneer een hacker toegang krijgt tot een Git-repository, kunnen de volgende geg
 * Broncode: Alle code die in de repository is opgeslagen.
 * Gevoelige data: Eventuele per ongeluk gecommitteerde gegevens, zoals API-sleutels, wachtwoorden,   gebruikersgegevens of andere persoonlijke informatie (PII).
 *  Projectgeschiedenis: De volledige geschiedenis van alle wijzigingen, inclusief de wijzigingen die in eerdere versies van de code zijn gemaakt.*
+
+
+
+
+
+#Belangrijke Git-commando’s en wat ze doen
+**Git-init**: start git in een project
+**Git clone**: kopieert een project van internet naar je computer
+**Git add**: Zet bestanden klaar om op te slaan.
+**Git commit**: sla je veranderingen op met een bericht.
+**Git push**: Zet je veranderingen online.
+
+
+
+github commando's
